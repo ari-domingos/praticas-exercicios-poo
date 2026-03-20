@@ -29,11 +29,6 @@ public class AplicacaoPersonagem {
 		p1.tomarDano(dano);
 		mostrarInfo(p1);
 		
-		
-		
-		
-		
-				
 		sc.close();
 	}
 	
